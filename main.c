@@ -9,6 +9,15 @@ int main(int argc, char **argv)
     askname(first, last);
 
     printf("Hello, %s %s!\n", first, last);
+	
+	
+	111111111111111111111111
+		
+		QWERTYUIOP{}{POIUYT
+		
+		_)(*&^%$#@#$%
+		   
+		   
 	цфакоык6лоыл
     return 0;
 }
