@@ -6,7 +6,9 @@ int main(int argc, char **argv)
 {
     char first[255], last[255];
 
-    askname(first, last);
+    askname(first, last);Hello Word!!!
+	
+	
 
     printf("Hello, %s %s!\n", first, last);
 	
